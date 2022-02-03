@@ -1,3 +1,3 @@
 # Peter Muriithi
 
-Learning Git
+Learning Git.
